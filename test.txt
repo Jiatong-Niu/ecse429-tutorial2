@@ -1,5 +1,2 @@
-This is a test
-
-!q
-
-Y
+This is a test
+this is the new line
