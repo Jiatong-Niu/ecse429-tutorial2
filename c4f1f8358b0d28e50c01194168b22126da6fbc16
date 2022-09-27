@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db845756_f2c70458",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020552
+      },
+      "writtenOn": "2022-09-27T02:27:51Z",
+      "side": 1,
+      "message": "delete few lines in test.txt",
+      "revId": "c4f1f8358b0d28e50c01194168b22126da6fbc16",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
